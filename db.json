@@ -1,3 +1,16 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "5c00",
+      "productName": "Watch",
+      "price": "21",
+      "desc": "this is watch"
+    },
+    {
+      "id": "4071",
+      "productName": "ring",
+      "price": "21",
+      "desc": "THIS IS RING"
+    }
+  ]
 }
